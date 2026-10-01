@@ -21,7 +21,6 @@ var vCopyObject : Object
 
 var vDescription1 : Text
 var vDescription2 : Text
-var property : Text
 
 var LB : Real
 var btnReplace : Real
