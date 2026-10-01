@@ -127,15 +127,15 @@
 					"top": 590,
 					"left": 500,
 					"width": 120,
-					"height": 20,
 					"sizingX": "move",
 					"sizingY": "move",
-					"text": "Insert table",
+					"text": ":xliff:HDI2_InsertTable",
 					"focusable": false,
 					"method": "ObjectMethods/Button7.4dm",
 					"events": [
 						"onClick"
-					]
+					],
+					"class": "default"
 				},
 				"Popup Dropdown List": {
 					"type": "dropdown",
@@ -174,7 +174,8 @@
 					"sizingX": "move",
 					"sizingY": "move",
 					"textAlign": "right",
-					"text": "Orientation:"
+					"text": ":xliff:HDI2_Orientation",
+					"stroke": "automatic"
 				},
 				"Text1": {
 					"type": "text",
@@ -185,7 +186,8 @@
 					"sizingX": "move",
 					"sizingY": "move",
 					"textAlign": "right",
-					"text": "Columns:"
+					"text": ":xliff:HDI2_Columns",
+					"stroke": "automatic"
 				}
 			}
 		},
@@ -240,45 +242,45 @@
 					"top": 510,
 					"left": 570,
 					"width": 280,
-					"height": 22,
 					"sizingX": "move",
 					"sizingY": "move",
-					"text": "Insert column break",
+					"text": ":xliff:HDI2_InsertColumnBreak",
 					"focusable": false,
 					"method": "ObjectMethods/Button.4dm",
 					"events": [
 						"onClick"
-					]
+					],
+					"class": "default"
 				},
 				"Button1": {
 					"type": "button",
 					"top": 550,
 					"left": 570,
 					"width": 280,
-					"height": 22,
 					"sizingX": "move",
 					"sizingY": "move",
-					"text": "Insert page break",
+					"text": ":xliff:HDI2_InsertPageBreak",
 					"focusable": false,
 					"method": "ObjectMethods/Button1.4dm",
 					"events": [
 						"onClick"
-					]
+					],
+					"class": "default"
 				},
 				"Button2": {
 					"type": "button",
 					"top": 450,
 					"left": 570,
 					"width": 280,
-					"height": 22,
 					"sizingX": "move",
 					"sizingY": "move",
-					"text": "Insert paragraph break",
+					"text": ":xliff:HDI2_InsertParagraphBreak",
 					"focusable": false,
 					"method": "ObjectMethods/Button2.4dm",
 					"events": [
 						"onClick"
-					]
+					],
+					"class": "default"
 				},
 				"Text2": {
 					"type": "text",
@@ -290,7 +292,8 @@
 					"sizingY": "move",
 					"textAlign": "center",
 					"fontStyle": "italic",
-					"text": "(This is equivalent to hit the \"return\" key)"
+					"text": ":xliff:HDI2_ReturnKeyNote",
+					"stroke": "automatic"
 				}
 			}
 		}

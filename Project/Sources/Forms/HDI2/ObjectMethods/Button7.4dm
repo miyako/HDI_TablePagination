@@ -1,3 +1,7 @@
+var $_col : Collection
+var $range; $table; $row; $col : Object
+var $i : Integer
+
 $_col:=New collection:C1472("Alpha Bravo"; "Charlie Delta Echo"; "Foxtrot Golf"; "Hotel India"; "Juliett lilo lima mike"; "november oscar"; "papa quebec"; "romeo sierra tango"; "uniform victor"; "whisky x-ray yankee zoulou")
 
 WParea:=WP New:C1317
