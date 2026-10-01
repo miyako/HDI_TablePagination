@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+	<file datatype="plaintext" original="HDI2" source-language="en" target-language="ja">
+		<body>
+			<trans-unit id="HDI2_InsertTable" resname="HDI2_InsertTable">
+				<source>Insert table</source>
+				<target>テーブルを挿入</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Orientation" resname="HDI2_Orientation">
+				<source>Orientation:</source>
+				<target>方向:</target>
+			</trans-unit>
+			<trans-unit id="HDI2_Columns" resname="HDI2_Columns">
+				<source>Columns:</source>
+				<target>列:</target>
+			</trans-unit>
+			<trans-unit id="HDI2_InsertColumnBreak" resname="HDI2_InsertColumnBreak">
+				<source>Insert column break</source>
+				<target>段区切りを挿入</target>
+			</trans-unit>
+			<trans-unit id="HDI2_InsertPageBreak" resname="HDI2_InsertPageBreak">
+				<source>Insert page break</source>
+				<target>改ページを挿入</target>
+			</trans-unit>
+			<trans-unit id="HDI2_InsertParagraphBreak" resname="HDI2_InsertParagraphBreak">
+				<source>Insert paragraph break</source>
+				<target>段落区切りを挿入</target>
+			</trans-unit>
+			<trans-unit id="HDI2_ReturnKeyNote" resname="HDI2_ReturnKeyNote">
+				<source>(This is equivalent to hit the "return" key)</source>
+				<target>（「return」キーを押すのと同じです）</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
